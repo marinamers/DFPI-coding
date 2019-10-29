@@ -27,7 +27,11 @@
     "start12": "budo indexObj.js --live -- -t babelify",
     "texture": "budo texture.js --live -- -t babelify",
 
+    "tate0": "budo tateExperiment0.js --live -- -t babelify",
     "tate1": "budo tateExperiment.js --live -- -t babelify",
+    "tate01": "budo tateExperiment1.js --live -- -t babelify",
+    "tate2": "budo tate2.js --live -- -t babelify",
+    "tate3": "budo tate4Lines.js --live -- -t babelify",
   
     "test": "echo \"Error: no test specified\" && exit 1"
   },
